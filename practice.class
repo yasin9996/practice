@@ -1,0 +1,6 @@
+total 16
+drwxr-xr-x 3 root   root   4096 Feb 16 17:18 .
+drwxr-xr-x 7 ubuntu ubuntu 4096 Feb 16 16:24 ..
+drwxr-xr-x 7 root   root   4096 Feb 16 17:17 .git
+-rw-r--r-- 1 root   root      0 Feb 16 17:18 practice.class
+-rw-r--r-- 1 root   root     14 Feb 16 17:17 practice.java
